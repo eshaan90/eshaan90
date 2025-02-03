@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- ⚡ I'm a Data Scientist with 3+ years of experience
+- ⛰ Projects worked on include: Fraud detection, Forecasting, MLOps, Medical AI, Document Understanding Using OCR, Reinforcement Learning, etc
+- 🌱 Interested in building AI applications 
+- 📫 Find me here: eshaan90@gmail.com
+  
 <!--
 **eshaan90/eshaan90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
