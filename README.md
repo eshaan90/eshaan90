@@ -2,7 +2,7 @@
 
 - ⚡ I'm a Data Scientist with 3+ years of experience
 - ⛰ Projects worked on include: Fraud detection, Forecasting, MLOps, Medical AI, Document Understanding Using OCR, Reinforcement Learning, etc
-- 🌱 Interested in building AI applications 
+- 🌱 Interested in building cool things with tech 
 - 📫 Find me here: eshaan90@gmail.com
   
 <!--
