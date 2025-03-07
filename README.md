@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- ⚡ I'm a Data Scientist with 3+ years of experience
-- ⚡ Previously, also worked for 4 years on oil rigs as a controls engineer
+- ⚡ I'm a Data Scientist with 4 years of experience
+- ⚡ Additionally, have 4 years of prior experience working as a controls engineer on oil rigs
 - ⛰ Projects worked on include: Fraud detection, Forecasting, MLOps, Medical AI, Document Understanding Using OCR, Reinforcement Learning, etc
-- 🌱 Interested in building cool things with data and tech
+- 🌱 Interested in building useful things with data and tech
 - 📫 Find me here: eshaan90@gmail.com
   
 <!--
