@@ -2,8 +2,14 @@
 
 - ⚡ I'm a Data Scientist with 4 years of experience
 - ⚡ Additionally, have 4 years of prior experience working as a controls engineer on oil rigs
-- ⛰ Projects worked on include: Fraud detection, Forecasting, MLOps, Medical AI, Document Understanding Using OCR, Reinforcement Learning, etc
-- 🌱 Interested in building useful things with data and tech
+- ⛰ Projects worked on include:
+	- Fraud detection in Loan Origination,
+ 	- Signal Processing for Heart Rate Estimation,
+  - Time SeriesForecasting,
+  - MLOps,
+  - Document Understanding Using OCR,
+  - Reinforcement Learning, etc
+- 🌱 Enjoy building useful things with data and tech
 - 📫 Find me here: eshaan90@gmail.com
   
 <!--
